@@ -1,7 +1,7 @@
 # PowerBI-Sales-Analysis
 A power Bi dashboard which tracks KPI (including sales, revenue, profit and returns), compare regional performance, analyse product level trends  and identify  high value customer.
-1.
-![image](https://user-images.githubusercontent.com/57195237/117808377-b6467580-b254-11eb-9b3f-d135846f4b30.png)
+
+1.![image](https://user-images.githubusercontent.com/57195237/117808377-b6467580-b254-11eb-9b3f-d135846f4b30.png)
 2.
 ![image](https://user-images.githubusercontent.com/57195237/117808577-f73e8a00-b254-11eb-8526-438d1b40159f.png)
 3.
